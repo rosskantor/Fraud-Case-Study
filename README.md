@@ -1,6 +1,6 @@
 # Fraud Detection Case Study
 
-For the next two days we will work with the entire end to end pipeline of data science through a case study.  We have touched on aspects of this throughout the course but have not yet put all the pieces together.
+Over a two-day period we worked with the entire end to end pipeline of data science through a case study.  We touched on aspects of this throughout the course but have not yet put all the pieces together.
 
 Topics included in this case study include:
 * Classification modeling.
